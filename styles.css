@@ -1,0 +1,10 @@
+.header {
+    background: #3523D8;
+    padding-left: 16px;
+    color: grey;
+}
+
+.search {
+    display: flex;
+    justify-content: space-around;
+}
